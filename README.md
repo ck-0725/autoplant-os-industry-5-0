@@ -33,3 +33,25 @@ AutoPlant OS 5.0 is a smart-factory management prototype with a browser-based in
 
 ## Team and Contributions
 Developed as an academic mini-project by a **four-member team**. Add the four team members and their actual contributions here with their agreement before publishing.
+
+## My Role & Contribution
+
+**Role: Frontend Developer**
+
+- Designed and developed the frontend interface using HTML5, CSS3, and JavaScript.
+- Worked on the user interface and visual layout of the smart factory management system.
+- Contributed to creating a user-friendly experience for factory management operations.
+
+## Technologies Used
+
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: Python, FastAPI
+- Database: PostgreSQL
+
+## Project Type
+
+Academic Mini Project | Collaborative Team Project (4 Members)
+
+## Author
+
+Chandrika Kalasapati
